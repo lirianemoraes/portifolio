@@ -1,0 +1,42 @@
+.imagem1,h4{
+    float: left;}
+    a{
+        color: #000000;
+    }
+    hr{
+        color: #FF0000;
+    }
+    #site{
+        background-color:#FF0000;
+    }
+    body{
+        background-color:#000000;
+    }
+    #nome{
+        color: aliceblue;
+    }
+    #email{
+        color: aliceblue;
+    }
+    #mensagem{
+        color: aliceblue;
+    }
+    .button{
+        color: aliceblue;
+    }
+    p{
+        color: aliceblue;
+    }
+    h1{
+        color: aliceblue;
+    }
+    form{
+        margin:0 auto;
+        width: 400px;
+        padding: 1em;
+        border:1px solid #CCC;
+        border-radius:1em;
+    }
+    p{
+        text-align: center;
+    }

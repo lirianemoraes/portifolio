@@ -1,0 +1,37 @@
+a{
+    color: #000000;
+}
+#site{
+    background-color:#FF0000;
+}
+
+body{
+    background-color:#000000;
+}
+h1{
+    text-align: left;
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+h4{
+    color: rgb(0, 0, 0);
+}
+hr{
+    color: #FF0000;
+}
+li{
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+}
+.imagem1,h4{
+    float: left;}
+#pizza1{
+ text-align: left;
+    }
